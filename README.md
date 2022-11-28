@@ -8,6 +8,9 @@
 
 - 🌱 I’m student of Korea Aerospace Univ in Korea
 
+- 🐋 I participated in **SW Maestro 13th**
+
+
 ### How to reach me? 🤔
 
 - 📫  **Taehyun's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimtaehyun981107@gmail.com)](mailto:fomagran6@gmail.com)
