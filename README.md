@@ -1,7 +1,7 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kimtaehyun98&fontSize=90) -->
 
 ## kimtaehyun98 😜
-
+<!-- 
 ### Intro 🙌
 
 - 👋 Hi, there! I'm @kimtaehyun98
@@ -19,7 +19,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimtaehyun98&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimtaehyun98)](https://solved.ac/kimtaehyun98)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimtaehyun98)](https://solved.ac/kimtaehyun98) -->
 
 
 
